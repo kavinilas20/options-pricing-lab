@@ -1,0 +1,5 @@
+method,coverage_of_95pct_ci,n_repetitions,coverage_sd_if_nominal
+Plain,0.948,2000,0.004873397172404482
+Antithetic,0.953,2000,0.004873397172404482
+Control variate,0.9445,2000,0.004873397172404482
+Antithetic + control variate,0.9515,2000,0.004873397172404482
